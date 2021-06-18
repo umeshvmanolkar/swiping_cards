@@ -12,10 +12,10 @@ Steps to Run this project on your device -
 
 3. Run the project.
 
-<img src="images/screenshot3.jpg">
+<img src="images/screenshot3.jpg" height="600" width="300" >
 
-<img src="images/screenshot2.jpg">
+<img src="images/screenshot2.jpg" height="600" width="300">
 
-<img src="images/screenshot1.jpg">
+<img src="images/screenshot1.jpg" height="600" width="300">
 
 
